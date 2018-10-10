@@ -1,9 +1,9 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Home from './views/Home.vue';
-import WebSocket from './views/WebSocket.vue';
-import Plataforma from './views/Plataforma.vue';
-import PlataformaDatatable from './views/PlataformaDatatable.vue';
+// import WebSocket from './views/WebSocket.vue';
+// import Plataforma from './views/Plataforma.vue';
+// import PlataformaDatatable from './views/PlataformaDatatable.vue';
 
 Vue.use(Router);
 
